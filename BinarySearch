@@ -1,0 +1,9 @@
+#It´s important to follow some sistematic steps while solving a problem. 
+  #1- identify input and output data formats
+  #2- passing them as parameters to a basic function
+  #3- come up with some input and output examples
+  #4- to facilitate testing, all tests will be represented by a dictionary with 'input' and 'output' keys, with the respectives examples as values
+  #5- test if  the function is able to handle any set of valid inputs
+  
+  
+#Problem 1: Alice has some cards with numbers written on them. She arranges the card in decreasing order
